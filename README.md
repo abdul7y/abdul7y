@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdullah Ali
+# 👋 Hi Folks, I'm Abdullah Ali
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/imabd456)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:abdullahyamin456@gmail.com)
