@@ -8,7 +8,7 @@
 
 ## ☁️ About Me
 
-I'm Abdullah Ali, a passionate **Cloud & DevOps Engineer** with hands-on experience in containerization, CI/CD automation, and cloud deployments. Currently pursuing my **BS in Software Engineering at MAJU**, I focus on building scalable infrastructure and deploying full-stack apps using modern DevOps tools.
+I'm Abdullah Ali, a passionate **Full stack developer** with hands-on experience in containerization, CI/CD automation, and cloud deployments. Currently pursuing my **BS in Software Engineering at MAJU**, I focus on building scalable infrastructure and deploying full-stack apps using modern DevOps tools.
 
 I enjoy working with **Dockerized microservices**, setting up **CI/CD pipelines using GitHub Actions**, and deploying to cloud platforms like **AWS and Render**. I also use **Bash scripting** to automate day-to-day tasks and streamline system operations.
 
